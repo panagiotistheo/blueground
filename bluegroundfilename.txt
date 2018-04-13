@@ -1,0 +1,4 @@
+Max percentage humidity N/A
+Max Temp in C 31
+Min Temp in C-3
+Precipitation in mm N/A
